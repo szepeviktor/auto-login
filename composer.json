@@ -1,0 +1,12 @@
+{
+    "name"       : "szepeviktor/auto-login",
+    "description": "Automatically log in to WordPress",
+    "homepage"   : "https://github.com/szepeviktor/auto-login",
+    "type"       : "wordpress-plugin",
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name"    : "Viktor Szépe"
+        }
+    ]
+}
