@@ -3,10 +3,10 @@
 Plugin Name: Automatically log in MU
 Version: 1.2.1
 Description: Just press the Log in button on the empty login page.
-Plugin URI: https://github.com/szepeviktor/wordpress-plugin-construction
+Plugin URI: https://github.com/szepeviktor/auto-login/
 License: The MIT License (MIT)
 Author: Viktor Szépe
-GitHub Plugin URI: https://github.com/szepeviktor/wordpress-plugin-construction
+GitHub Plugin URI: https://github.com/szepeviktor/auto-login/
 Options: AUTO_LOGIN_USER
 */
 
