@@ -1,14 +1,14 @@
 <?php
-/*
-Plugin Name: Automatically log in MU
-Version: 1.2.2
-Description: Just press the Log in button on the empty login page.
-Plugin URI: https://github.com/szepeviktor/wordpress-plugin-construction
-License: The MIT License (MIT)
-Author: Viktor Szépe
-GitHub Plugin URI: https://github.com/szepeviktor/wordpress-plugin-construction
-Options: AUTO_LOGIN_USER
-*/
+/**
+ * Plugin Name: Automatically log in MU
+ * Version: 1.2.2
+ * Description: Just press the Log in button on the empty login page.
+ * Plugin URI: https://github.com/szepeviktor/auto-login
+ * License: The MIT License (MIT)
+ * Author: Viktor Szépe
+ * GitHub Plugin URI: https://github.com/szepeviktor/auto-login
+ * Constants: AUTO_LOGIN_USER
+ */
 
 /**
  * Only activate on the login page
