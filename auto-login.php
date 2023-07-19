@@ -22,6 +22,9 @@ function o1_auto_login_add_filter() {
 
     if ( defined( 'AUTO_LOGIN_USER' ) ) {
         add_filter( 'authenticate', 'o1_auto_login', 10, 3 );
+        add_action( 'login_footer', function () {
+            echo '<script>document.getElementById("loginform").setAttribute("novalidate", "");</script>';
+        }, 10, 0 );
     }
 }
 
