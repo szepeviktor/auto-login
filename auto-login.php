@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Automatically log in MU
- * Version: 1.2.2
+ * Version: 1.3.0
  * Description: Just press the Log in button on the empty login page.
  * Plugin URI: https://github.com/szepeviktor/auto-login
  * License: The MIT License (MIT)
